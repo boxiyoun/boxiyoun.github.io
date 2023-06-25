@@ -44,6 +44,8 @@ div {
 
 .main {
   margin-left: 50px;
+  height: 100vh;
+  background: #f7f7f7;
 }
 
 .header {
@@ -192,8 +194,7 @@ div {
 }
 
 .visual {
-  padding: 20px 20px 0px 20px;
-  margin-bottom: 30px;
+  padding: 20px;
   background: #f7f7f7;
   color: #444444;
   background: #f7f7f7;
